@@ -1,0 +1,35 @@
+.text-red-500 {
+    color: #f56565;
+  }
+  
+  .bg-blue-200 {
+    background-color: #bee3f8;
+  }
+  .text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  
+  .font-bold {
+    font-weight: 700;
+  }
+  .px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .mt-8 {
+    margin-top: 2rem;
+  }
+  .flex {
+    display: flex;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+      
